@@ -5,4 +5,4 @@ document.write("a is : " + a);
 document.write("<br />");
 document.write("b is : " + b);
 document.write("<br />");
-document.write("result is : " + b);
+document.write("result is : " + result);
